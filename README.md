@@ -1,2 +1,2 @@
 # Supermarket-System
-*Unfinished* simple online store made with windows forms 
+*Unfinished* simple food irdering machine software made by visual studio as a windows form application as an OOP project
